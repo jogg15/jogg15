@@ -6,11 +6,11 @@
 
 # 💫 About me
 
-I am from the **Czech Republic**, currently working as a freelance developer, using the Central European Time. I specialize in web development, minecraft plugins, Discord bot development and creating digital projects.
+I am from the **Czech Republic** and currently studying Computer Science while working as a freelance developer in the Central European Time (CET) zone. I specialize in web development, Minecraft plugin development, Discord bot development, and building digital projects.
 
-I have **4 years** of experience in Minecraft plugin development and website development, and I’ve recently started focusing on Discord bot development.
+I have over **4 years** of experience in Minecraft plugin and website development, and I’ve recently started focusing more on Discord bot development to expand my expertise.
 
-I also co-created **Digitality**, a project that helped me develop strong skills in planning, building, and managing projects. I’m constantly improving my skills, exploring new tools, and taking on new challenges to grow as a developer.
+I also co-created a project called **Digitality**, which helped me strengthen my skills in planning, building, and managing digital projects. I am constantly improving my skills, exploring new technologies, and taking on new challenges to grow as a developer.
 
 # 💻 Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![C](https://img.shields.io/badge/C%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
