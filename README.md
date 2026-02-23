@@ -1,6 +1,6 @@
 # 👋 Hello! My name is Vlad.
 [![GMail](https://img.shields.io/badge/Email-Email?style=for-the-badge&logo=minutemailer&logoColor=white&color=%23396CB2)](mailto:studenskyv@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/938075439790972979)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1475580403296506162)
 [![BuyMeACoffee](https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jogg15) 
 
 # 💫 About me
