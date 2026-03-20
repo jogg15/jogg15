@@ -5,11 +5,11 @@
 
 # 💫 About me
 
-I am from the **Czech Republic** and currently studying Computer Science while working as a freelance developer in the Central European Time (CET) zone. I specialize in web development, Minecraft plugin development, Discord bot development, and building digital projects.
+I am a freelance developer based in the Czech Republic, working in the IT field within the Central European Time (CET) zone. I primarily focus on developing Minecraft plugins, but I also create websites, Discord bots, and other digital projects.
 
-I have over **4 years** of experience in Minecraft plugin and website development, and I’ve recently started focusing more on Discord bot development to expand my expertise.
+I have over **4 years** of experience in Minecraft plugin and web development, and I’ve recently started focusing more on Discord bot development to broaden my skill set.
 
-I also co-created a project called **Digitality**, which helped me strengthen my skills in planning, building, and managing digital projects. I am constantly improving my skills, exploring new technologies, and taking on new challenges to grow as a developer.
+I also co-created a project called **Digitality**, where I strengthened my skills in planning, building, and managing digital projects. I’m constantly improving, exploring new technologies, and taking on new challenges to grow as a developer.
 
 # 💻 Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
