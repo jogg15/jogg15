@@ -5,7 +5,7 @@
 
 # 💫 About me
 
-I am a freelance developer based in the Czech Republic, working in the IT field within the Central European Time (CET) zone. I primarily focus on developing Minecraft plugins, but I also create websites, Discord bots, and other digital projects.
+I am a student based in the Czech Republic, working as a freelance developer in the IT field within the Central European Time (CET) zone. I primarily focus on developing Minecraft plugins, but I also create websites, Discord bots, and other digital projects.
 
 I have over **4 years** of experience in Minecraft plugin and web development, and I’ve recently started focusing more on Discord bot development to broaden my skill set.
 
